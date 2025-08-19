@@ -5,6 +5,8 @@
 # --- Color Codes for Logging ---
 # Usage: echo_info "This is an informational message."
 # Usage: echo_success "Something worked!"
+# Usage: echo_warn "warning for something!"
+# Usage: echo_error "Something failed!"
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
